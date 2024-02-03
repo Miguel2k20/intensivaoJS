@@ -1,0 +1,5 @@
+Precisa do node instalado na maquina
+Crie um .js para estabelecer como seu "servidor"
+Dps disso colocar o package.json neste projeto, rodando npm init -y
+Feito isso isntale o express, rodando npm install express
+e para rodar é necessario rodar no servidor node --watch .\servidor.js
